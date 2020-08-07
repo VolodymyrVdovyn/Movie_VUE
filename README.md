@@ -1,4 +1,4 @@
-# vue-movie
+# Frontend part of site with films. Wrote on Vue.js framework
 
 ## Project setup
 ```
